@@ -3,7 +3,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/autosale-dealership.git
+git clone https://github.com/AutoSale.github.io/autosale-dealership.git
 ```
 
 2. Install dependencies:
