@@ -27,7 +27,7 @@ header {
 
 .hero {
   display: flex;
-  background: linear-gradient(rgba(0, 0, 0, 0.6)), url("/Project-N3/images/cars.jpeg");
+  background: linear-gradient(rgba(0, 0, 0, 0.6)), url("/images/cars.jpeg");
   background-size: cover;
   background-position: center;
   height: 100vh;
